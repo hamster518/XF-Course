@@ -14,7 +14,11 @@ namespace NavigationPageLab
             InitializeComponent();
 
             //MainPage = new NavigationPageLab.MainPage();
-            MainPage = new NavigationPage(new MainPage());
+            MainPage = new NavigationPage(new MainPage())
+            {
+                BarBackgroundColor = Color.Pink,
+                BarTextColor = Color.Yellow            
+            };
         }
 
         protected override void OnStart()

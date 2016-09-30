@@ -5,7 +5,7 @@
              prism:ViewModelLocator.AutowireViewModel="True"
              x:Class="EntryLab.Views.MainPage"
              Title="MainPage">
-    
+
     <StackLayout HorizontalOptions="Fill" VerticalOptions="Center"
                  Margin="20,0">
         <Label Text="一般" />

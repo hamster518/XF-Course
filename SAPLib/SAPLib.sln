@@ -15,6 +15,7 @@ Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		SAPLib\SAPLib\SAPLib.projitems*{3237b60e-5498-49c1-a111-d77a9c4eec8f}*SharedItemsImports = 4
 		SAPLib\SAPLib\SAPLib.projitems*{3bd1d67d-5467-481d-bbae-632c3d78d30f}*SharedItemsImports = 4
+		SAPLib\SAPLib\SAPLib.projitems*{412dc26a-f3b3-46eb-9a50-28102eb00b92}*SharedItemsImports = 4
 		SAPLib\SAPLib\SAPLib.projitems*{f64a3e4b-e78f-4b5f-98e9-2c0b71a43b2e}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

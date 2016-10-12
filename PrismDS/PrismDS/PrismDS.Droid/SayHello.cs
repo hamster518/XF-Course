@@ -18,7 +18,7 @@ namespace PrismDS.Droid
     public class SayHello : ISayHello
     {
         public string Hello()
-        {
+        { 
             return "I am Android";
         }
     }
